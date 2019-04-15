@@ -1,0 +1,9 @@
+--------Output--------
+Tree before prunning using information gain based heuristic
+Accuracy:- 75.9
+Tree before prunning using variance impurity based heuristic
+Accuracy:- 49.55
+Tree after prunning using information gain based heuristic for L=10 K =15
+Accuracy:- 75.9
+Tree after prunning using variance impurity based heuristic    L=10 K =15
+Accuracy:- 59.0
