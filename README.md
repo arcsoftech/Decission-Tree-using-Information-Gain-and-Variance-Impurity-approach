@@ -1,6 +1,5 @@
-# UTD_ML_Project-Assignment-1 
 
-## Topic: Implementation of decission tree using below geuristic
+## Topic: Implementation of decission tree using below heuristic
 - Information Gain
 - Varince Impurity
 
